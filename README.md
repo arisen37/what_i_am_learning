@@ -1,1 +1,3 @@
-# what_i_am_learning
+Duration of LEARNING
+
+1) React - 24Nov - Current
